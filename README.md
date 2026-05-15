@@ -1,5 +1,7 @@
 ## 📸 Screenshots
 
-| User Dashboard | Admin Panel |
-|----------------|--------------|
-| ![User](screenshots/user-dashboard.png) | ![Admin](screenshots/admin-dashboard.png) |
+### User Dashboard
+![User Dashboard](https://raw.githubusercontent.com/Bibekshahi/expense-tracker-php/main/screenshots/user-dashboard.png)
+
+### Admin Panel
+![Admin Panel](https://raw.githubusercontent.com/Bibekshahi/expense-tracker-php/main/screenshots/admin-panel.png)
